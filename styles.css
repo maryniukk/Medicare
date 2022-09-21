@@ -1,0 +1,196 @@
+
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 998px){
+    
+}
+
+@media screen and (max-width: 576px){
+    
+}
+
+
+body{
+    font-family: 'Inter', sans-serif;
+    width: 1440px;
+    height: 1050px;
+    background-color: #F9F9FA;
+}
+::-webkit-scrollbar {
+    width: 0;
+  }
+.logo__text{
+    text-decoration: none;
+    /* Medicare */
+
+
+    position: absolute;
+    width: 107px;
+    height: 29px;
+    left: 179px;
+    top: 51px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    letter-spacing: -0.01em;
+
+    color: #000000;
+
+}
+.logo__icon{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 135px;
+    top: 48px;
+}
+.menu{
+margin-top: 54px;
+margin-right: 502px;
+margin-left: 502px;
+margin-bottom: 965px;
+display: flex;
+justify-content: space-between;
+}
+.menu__img{
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 521px;
+    top: 79px;
+    
+}
+.menu__item__text{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: -0.01em;
+text-decoration: none; 
+
+color: #777E8B;
+}
+
+.auth__button__sign-in{
+    /* Sign in */
+
+
+position: absolute;
+width: 51px;
+height: 19px;
+left: 1121px;
+top: 54px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: -0.01em;
+text-decoration: none;
+
+color: #000000;
+}
+.auth__button__sign-up{
+    /* Sign up */
+
+    position: absolute;
+    width: 57px;
+    height: 19px;
+    left: 1224px;
+    top: 54px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+letter-spacing: -0.01em;
+text-decoration: none;
+
+color: #FFFFFF;
+}
+
+.main__title{
+    /* Everyone deserves a great healthy life. */
+
+
+position: absolute;
+width: 760px;
+height: 160px;
+left: 340px;
+top: 170px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 80px;
+/* or 114% */
+
+text-align: center;
+letter-spacing: -0.01em;
+
+color: #131416;
+}
+.main__subtitle{
+    /* We care,over 3000+ Doctors available */
+
+
+position: absolute;
+width: 390px;
+height: 27px;
+left: 525px;
+top: 375px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -0.01em;
+
+color: #777E8B;
+
+}
+
+.abstract{
+    /* Abstract */
+
+position: absolute;
+width: 1292.91px;
+height: 242.5px;
+left: 74px;
+top: 276px;
+}
+.box__button{
+    position: absolute;
+    width: 513px;
+    height: 71px;
+    margin-left: 425px;
+    top: 447px;
+}
+.cards__img{
+/* Cards */
+
+
+position: absolute;
+width: 1170px;
+height: 396px;
+left: 135px;
+top: 588px;
+}
